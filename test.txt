@@ -10,3 +10,5 @@ add contents angin.
 在master分支添加冲突内容。
 Add the conflict contents on the master branch.
 
+Add merge.
+
