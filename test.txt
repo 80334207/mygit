@@ -6,3 +6,6 @@ Switch to the test branch,and add some modified contents of file.
 
 再次添加内容。
 add contents angin.
+
+在master分支添加冲突内容。
+Add the conflict contents on the master branch.
