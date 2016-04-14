@@ -1,5 +1,3 @@
 这是多分支管理测试
 this is a test for multiple branch management.
 
-切换到master分支，但是发现在test分支上修改的内容并不存在
-Switch to the master branch,but it is found that the modified content does not exsit on the test branch.
