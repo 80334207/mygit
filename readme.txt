@@ -13,3 +13,4 @@ Sometimes we will show our crasy ideas.
 Welcome everyone involved,and show your minds.
 # note
 Upload your code to repositories,please use branch correspanding your language type.
+At branch you can upload your development code,also you can upload related technical document and other file about your crasy ideas.
