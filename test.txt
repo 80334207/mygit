@@ -12,3 +12,8 @@ Add the conflict contents on the master branch.
 
 Add merge.
 
+dev分支是一个临时分支，用于实际工作。而master分支是主要分支，用于最终提交版本信息。
+The dev branch is a temp branch,it be used for practice work.
+And the master branch is a main branch,it be used for the last version message to commit.
+git的分支策略即使如此，实际开发中每个人都有自己的分支，提交信息后和dev分支进行合并，所有工作结束后再将dev和master分支合并，推送向服务端。
+
