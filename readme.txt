@@ -11,3 +11,5 @@ java.code c.code python.code
 The repositories use for Java/C/Python and other languages research.
 Sometimes we will show our crasy ideas.
 Welcome everyone involved,and show your minds.
+# note
+Upload your code to repositories,please use branch correspanding your language type.
