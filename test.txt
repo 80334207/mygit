@@ -15,5 +15,6 @@ Add merge.
 dev分支是一个临时分支，用于实际工作。而master分支是主要分支，用于最终提交版本信息。
 The dev branch is a temp branch,it be used for practice work.
 And the master branch is a main branch,it be used for the last version message to commit.
-git的分支策略即使如此，实际开发中每个人都有自己的分支，提交信息后和dev分支进行合并，所有工作结束后再将dev和master分支合并，推送向服务端。
-
+git的分支策略即是如此，实际开发中每个人都有自己的分支，提交信息后和dev分支进行合并，所有工作结束后再将dev和master分支合并，推送向服务端。
+Git is branching strategy just like this,In the practice work everyone have own branch,everyone`s branch must be merged with the dev branch
+after the message commited,when all the work is end the dev branch will be merged with the master branch,and push the master branch to server.
