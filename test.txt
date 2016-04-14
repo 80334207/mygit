@@ -1,5 +1,5 @@
 这是多分支管理测试
-this is a test for multiple branch management.
+This is a test for multiple branch management.
 
 切换到test分支，并添加一些修改内容。
 Switch to the test branch,and add some modified contents of file.
