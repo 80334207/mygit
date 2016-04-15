@@ -18,3 +18,14 @@ And the master branch is a main branch,it be used for the last version message t
 git的分支策略即是如此，实际开发中每个人都有自己的分支，提交信息后和dev分支进行合并，所有工作结束后再将dev和master分支合并，推送向服务端。
 Git is branching strategy just like this,In the practice work everyone have own branch,everyone`s branch must be merged with the dev branch
 after the message commited,when all the work is end the dev branch will be merged with the master branch,and push the master branch to server.
+
+在发布一个版本的时候，我们一般要给版本库中打一个标签，也就是版本号。这样，我们以后就可以根据版本号来获取相应的版本内容。
+Git的标签实际上可以理解为版本库的快照，它就是指向某个commit操作的指针。
+标签和分支是不是很像，但是区别在于分支可以通过提交操作直线移动但是标签不行，所以，创建和删除标签都是瞬间完成的。
+现在我们为当前的测试版本库添加一个版本号标签吧。
+When pubulish a version,wen usually give a tag for the current repositories,that is version number.
+In this way,then we can able to get the correspanding content according to the version number.
+Git`s tag actually can understand as the snapshot of repositories,it is a pointer which is point to a commit opration.
+Tag is it as same as branch,but the difference is that the branch can be moved by submitting the operation line and the tage can not be,
+so,creatting operation and deleting operation are all instant finished.
+Now we can add a version number tag for the current test repositories!
