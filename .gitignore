@@ -1,0 +1,7 @@
+# java project filter for file
+*.class
+.gitignore~
+# java project filter for folder
+build/
+.metadata/
+RemoteSystemsTempFiles/
