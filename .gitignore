@@ -4,4 +4,5 @@
 # java project filter for folder
 build/
 .metadata/
+Servers/
 RemoteSystemsTempFiles/
