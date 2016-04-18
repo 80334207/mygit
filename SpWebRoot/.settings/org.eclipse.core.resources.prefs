@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/spermakert/webCore/HttpServer.java=UTF-8
+encoding//src/com/spermakert/webCore/Request.java=UTF-8
+encoding//src/com/spermakert/webCore/Response.java=UTF-8
+encoding//webroot/index.html=UTF-8
